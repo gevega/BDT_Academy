@@ -1,0 +1,15 @@
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.csproj.AssemblyReference.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.AssemblyInfoInputs.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.AssemblyInfo.cs
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.csproj.CoreCompileInputs.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\bin\Debug\net7.0\Piedra-Papel-Tijera.exe
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\bin\Debug\net7.0\Piedra-Papel-Tijera.deps.json
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\bin\Debug\net7.0\Piedra-Papel-Tijera.runtimeconfig.json
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\bin\Debug\net7.0\Piedra-Papel-Tijera.dll
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\bin\Debug\net7.0\Piedra-Papel-Tijera.pdb
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.dll
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\refint\Piedra-Papel-Tijera.dll
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.pdb
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\Piedra-Papel-Tijera.genruntimeconfig.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\08\Piedra-Papel-Tijera\obj\Debug\net7.0\ref\Piedra-Papel-Tijera.dll
