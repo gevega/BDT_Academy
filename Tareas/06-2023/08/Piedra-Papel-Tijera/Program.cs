@@ -93,15 +93,21 @@ static void ganador(int[] puntos, string[] nom)
         Console.Write($", {nom[i]}");
         i++;
     }
-    Console.WriteLine($" con {puntos[0]} puntos.");
+    Console.WriteLine($" con {puntos[0]} puntos.\nTabla de Posiciones:");
+
+    for(int j=0; j<nom.Length; j++)
+    {
+        Console.WriteLine($"{nom[j]}    {puntos[j]} puntos.");
+    }
 }
 
 static void ganadorParc(ref int[] array)
 {
-    if(array[0] > array[2]){
+    if (array[0] > array[2])
+    {
         Console.WriteLine("Le ganaste a la máquina, ¡felicitaciones!\n");
-    } 
-    else if(array[0] < array[2])
+    }
+    else if (array[0] < array[2])
     {
         Console.WriteLine("Perdiste con la máquina, ¡Que mal!\n");
     }
