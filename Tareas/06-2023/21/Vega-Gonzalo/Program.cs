@@ -6,9 +6,9 @@ string jug_s = "";
 
 for (int i = 0; i < 3; i++)
 {
-    mostrar(nom, code, i);
     for (int j = 1; j <= 3; j++)
     {
+        mostrar(nom, code, i);
         Console.WriteLine($"\n|   FECHA {j}   |");
 
         ingresar(ref jug_s, jug, i);
@@ -17,13 +17,14 @@ for (int i = 0; i < 3; i++)
             ingAmon();
             ingresar(ref jug_s, jug, i);
         }
+        Console.Clear();
     }
 }
 //FIN PROGRAMA PRINCIPAL
 
 static void mostrar(string[] nom, string[] code, int i)
 {
-    Console.WriteLine($"Código: {code[i]}    |   {nom[i]}");
+    Console.WriteLine($"\nCódigo: {code[i]}    |   {nom[i]}");
 }
 
 static void ingresar(ref string var, string[,] jug, int i)
@@ -49,5 +50,26 @@ static void validar(string var, string[,] jug, int i)
 
 static void ingAmon()
 {
-    
+    int ama = 0, roja = 0;
+    Console.Write("Ingrese cantidad de amarillas: ");
+    ama = Convert.ToInt16(Console.ReadLine()!);
+    validarTarj(ref ama, 0, 2);
+    if(ama < 2)
+    {
+        Console.Write("Ingrese 1 si fue expulsado: ");
+        roja = Convert.ToInt16(Console.ReadLine()!);
+        validarTarj(ref roja, 0, 1);
+    }
+    else
+    {
+        Console.WriteLine("¡Fue expulsado!");
+    }
+}
+
+static void validarTarj(ref int ama, int piso, int tope){
+    while(ama < piso || ama > tope)
+    {
+        Console.Write("Cantidad inválida, ingresar nuevamente: ");
+        ama = Convert.ToInt16(Console.ReadLine()!);
+    }
 }
