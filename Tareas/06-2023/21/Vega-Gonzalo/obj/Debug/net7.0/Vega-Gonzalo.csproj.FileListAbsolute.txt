@@ -1,0 +1,15 @@
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\bin\Debug\net7.0\Vega-Gonzalo.exe
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\bin\Debug\net7.0\Vega-Gonzalo.deps.json
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\bin\Debug\net7.0\Vega-Gonzalo.runtimeconfig.json
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\bin\Debug\net7.0\Vega-Gonzalo.dll
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\bin\Debug\net7.0\Vega-Gonzalo.pdb
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.csproj.AssemblyReference.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.AssemblyInfoInputs.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.AssemblyInfo.cs
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.csproj.CoreCompileInputs.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.dll
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\refint\Vega-Gonzalo.dll
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.pdb
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\Vega-Gonzalo.genruntimeconfig.cache
+C:\Users\SofiBell\Desktop\BDT Global\Tareas_Git\GitHub\Tareas\06-2023\21\Vega-Gonzalo\obj\Debug\net7.0\ref\Vega-Gonzalo.dll
